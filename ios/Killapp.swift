@@ -1,8 +1,8 @@
 @objc(Killapp)
 class Killapp: NSObject {
 
-    @objc(multiply:withB:withResolver:withRejecter:)
-    func multiply(a: Float, b: Float, resolve:RCTPromiseResolveBlock,reject:RCTPromiseRejectBlock) -> Void {
-        resolve(a*b)
+    @objc
+    func kill(_ resolve: RCTPromiseResolveBlock, reject: RCTPromiseRejectBlock) {
+        exit(-1)
     }
 }

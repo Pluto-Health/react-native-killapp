@@ -11,11 +11,11 @@ npm install react-native-killapp
 ## Usage
 
 ```js
-import { multiply } from "react-native-killapp";
+import { kill } from "react-native-killapp";
 
 // ...
 
-const result = await multiply(3, 7);
+kill();
 ```
 
 ## Contributing

@@ -17,6 +17,6 @@ const Killapp = NativeModules.Killapp
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return Killapp.multiply(a, b);
+export function kill(): Promise<number> {
+  return Killapp.kill();
 }

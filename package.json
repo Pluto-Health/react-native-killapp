@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/ZeeshanAfzalSatti/killapp",
-  "author": "Zeeshan Afzal Satti <zeeshan@pluto.health> (https://github.com/ZeeshanAfzalSatti)",
+  "repository": "https://github.com/Pluto-Health/react-native-killapp",
+  "author": "Zeeshan Afzal Satti <zeeshan@pluto.health> (https://github.com/Pluto-Health/react-native-killapp)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZeeshanAfzalSatti/killapp/issues"
+    "url": "https://github.com/Pluto-Health/react-native-killapp/issues"
   },
-  "homepage": "https://github.com/ZeeshanAfzalSatti/killapp#readme",
+  "homepage": "https://github.com/Pluto-Health/react-native-killapp#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
